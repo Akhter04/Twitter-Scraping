@@ -1,3 +1,6 @@
+import pip
+pip install snscrape
+pip install streamlit
 import snscrape
 import streamlit as st
 import pandas as pd
